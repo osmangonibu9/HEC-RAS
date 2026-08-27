@@ -12,7 +12,7 @@ A GIS-integrated 2D hydraulic modelling workflow developed for a selected reach 
 | **Study Area** | Pangsha, Rajbari & Faridpur |
 | **Simulation Period** | 2-day flood event |
 | **Model Type** | 2D Unsteady Hydraulic Model |
-| **Software** | HEC-RAS 6.x, ArcGIS |
+| **Software** | HEC-RAS 6.6, ArcGIS |
 | **Coordinate System** | WGS 84 / UTM Zone 46N (EPSG:32646) |
 | **Key Outputs** | Maximum Water Surface Elevation (WSE), Flow Velocity, Simulation Animation |
 
