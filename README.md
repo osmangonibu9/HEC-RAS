@@ -1,4 +1,4 @@
-# 🌊 HEC-RAS 2D Hydraulic Modelling of the Padma River
+## 🌊 HEC-RAS 2D Hydraulic Modelling of the Padma River
 
 A GIS-integrated 2D hydraulic modelling workflow developed for a selected reach of the **Padma River, Bangladesh**, using **HEC-RAS**. The project covers the complete pipeline — from DEM preprocessing and coordinate transformation to terrain preparation, 2D flow-area development, hydraulic simulation, and visualization of model outputs.
 
