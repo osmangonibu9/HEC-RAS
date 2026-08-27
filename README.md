@@ -28,25 +28,25 @@ A GIS-integrated 2D hydraulic modelling workflow developed for a selected reach 
                          DEM Acquisition
                                 │
                                 ▼
-                      DEM Preprocessing
+                        DEM Preprocessing
                                 │
-                     WGS 84 → UTM Zone 46N
-                                │
-                                ▼
-                      Study Area Mapping
-                         Padma River
+                      WGS 84 → UTM Zone 46N
                                 │
                                 ▼
-                    Terrain Preparation
-                        for HEC-RAS
+                        Study Area Mapping
+                           Padma River
                                 │
                                 ▼
-                     2D Flow Area Setup
+                      Terrain Preparation
+                         for HEC-RAS
+                                │
+                                ▼
+                       2D Flow Area Setup
                        & Mesh Generation
                                 │
                                 ▼
-                      HEC-RAS 2D Model
-                     Hydraulic Simulation
+                         HEC-RAS 2D Model
+                       Hydraulic Simulation
                                 │
                     ┌───────────┴───────────┐
                     ▼                       ▼
@@ -55,8 +55,8 @@ A GIS-integrated 2D hydraulic modelling workflow developed for a selected reach 
                     │                       │
                     └───────────┬───────────┘
                                 ▼
-                    Hydraulic Result
-                     Visualization
+                         Hydraulic Result
+                           Visualization
 ```
 
 ---
