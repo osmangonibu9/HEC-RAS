@@ -91,8 +91,8 @@ A 2D simulation animation is included to illustrate the spatial and temporal evo
 ### Simulation Video
 * ▶️ https://github.com/osmangonibu9/HEC-RAS/blob/main/Simulation.mp4*
 
-> *<img width="1366" height="706" alt="WSEMax" src="https://github.com/user-attachments/assets/6ab1847f-9350-43f5-b745-44b206cd93d8" />
-*
+> <img width="1366" height="706" alt="WSEMax" src="https://github.com/user-attachments/assets/6ab1847f-9350-43f5-b745-44b206cd93d8" />
+
 
 ---
 
