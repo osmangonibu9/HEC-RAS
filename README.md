@@ -4,7 +4,7 @@ A GIS-integrated 2D hydraulic modelling workflow developed for a selected reach 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 | | |
 |---|---|
@@ -61,7 +61,7 @@ A GIS-integrated 2D hydraulic modelling workflow developed for a selected reach 
 
 ---
 
-## 🗺️ Coordinate System
+## Coordinate System
 
 All spatial datasets were reprojected to a projected coordinate system to ensure accurate distance, area, and hydraulic computations:
 
@@ -69,7 +69,7 @@ All spatial datasets were reprojected to a projected coordinate system to ensure
 
 ---
 
-## 📊 Model Outputs
+## Model Outputs
 
 ### Maximum Water Surface Elevation (WSE)
 
@@ -117,7 +117,7 @@ A 2D simulation animation is included to illustrate the spatial and temporal evo
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 `GIS & Spatial Data Processing` `DEM Preparation` `HEC-RAS 2D Modelling` `Terrain Development` `Hydraulic Simulation` `Water Surface Elevation Analysis` `Flow Velocity Analysis`
 
